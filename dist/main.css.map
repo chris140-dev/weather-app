@@ -1,1 +1,0 @@
-{"version":3,"file":"main.css","mappings":";;;AAAA;AACA;AACA,C","sources":["webpack://weather-app/./src/style.css"],"sourcesContent":["body {\r\n    background-color: lightblue;\r\n}"],"names":[],"sourceRoot":""}
